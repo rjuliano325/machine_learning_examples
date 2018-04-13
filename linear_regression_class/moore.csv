@@ -85,7 +85,7 @@ Quad-core + GPU AMD Trinity	1,303,000,000	2012	AMD	32 nm	246 mm²
 Quad-core + GPU Core i7 Ivy Bridge	1,400,000,000	2012	Intel	22 nm	160 mm²
 Six-core zEC12	2,750,000,000	2012	IBM	32 nm	597 mm²
 12-core POWER8	4,200,000,000	2013	IBM	22 nm	650 mm²
-Apple A7 (dual-core ARM64 "mobile SoC")	1,000,000,000	2013	Apple	28 nm	102 mm²
+Apple A7 (dual-core ARM64 mobile SoC)	1,000,000,000	2013	Apple	28 nm	102 mm²
 Six-core Core i7 Ivy Bridge E	1,860,000,000	2013	Intel	22 nm	256 mm²
 Xbox One main SoC	5,000,000,000	2013	Microsoft/AMD	28 nm	363 mm²
 15-core Xeon Ivy Bridge-EX	4,310,000,000[33]	2014	Intel	22 nm	541 mm²
